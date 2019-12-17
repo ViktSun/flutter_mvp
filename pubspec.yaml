@@ -83,11 +83,11 @@ dev_dependencies:
   logger: ^0.6.0
 
 
-  flutter_mvideo_plugin:
-    git:
-      url: https://github.com/UrielSun/MVideoPlugin.git
 #  flutter_mvideo_plugin:
-#    path: ../flutter_mvideo_plugin
+#    git:
+#      url: https://github.com/UrielSun/MVideoPlugin.git
+  flutter_mvideo_plugin:
+    path: ../flutter_mvideo_plugin
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

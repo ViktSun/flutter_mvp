@@ -1,6 +1,10 @@
 # Flutter Mvp
-
+[![Language](https://img.shields.io/badge/language-Dart%7CFlutter-orange.svg)](https://flutterchina.club/get-started/install/)
+[![Platform](https://img.shields.io/badge/platform-android-orange.svg)](https://developer.android.com/)
 ![APi Version](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)
+![Release](https://img.shields.io/github/v/release/ViktSun/flutter_mvp.svg)
+[![License](https://img.shields.io/github/license/ViktSun/flutter_mvp)](https://opensource.org/licenses/Apache-2.0)
+[![Author](https://img.shields.io/badge/Author-viktsun-blue.svg)](http://www.sunwrite.top)
 
 本项目是在学习Flutter过程中，利用业余时间开发的一款小项目，代码结构清晰，项目采用了传统的MVP模式。
 
@@ -36,8 +40,11 @@
 
 ### 项目体验下载地址
 
+- [点击下载](https://www.pgyer.com/zmFg)
 
+- 扫码下载
 
+  ![扫码下载](http://flutter.sunwrite.top/qr_download.png)
 
 ## 编译运行流程
 
@@ -70,7 +77,6 @@
 | [flutter_oktoast](https://github.com/OpenFlutter/flutter_oktoast)     | **Toast工具**        |
 | [common_utils](https://github.com/Sky24n/common_utils)                | **Dart 常用工具类库**     |
 | [flustars](https://github.com/Sky24n/flustars)                        | **Flutter 常用工具类库**  |
-| [flutter_swiper](https://github.com/best-flutter/flutter_swiper)      | **Flutter 轮播组件**      |
 | [rxdart](https://github.com/ReactiveX/rxdart)                         | **Dart的响应式扩展** |
 | [sprintf](https://github.com/Naddiseo/dart-sprintf)                   | **String格式化工具**   |
 | [logger](https://github.com/leisim/logger.git)                        | **Flutter 日志工具**   |
