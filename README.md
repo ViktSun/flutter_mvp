@@ -42,9 +42,12 @@
 
 - [点击下载](https://www.pgyer.com/zmFg)
 
+- 下载密码：123456
+
 - 扫码下载
 
   ![扫码下载](http://flutter.sunwrite.top/qr_download.png)
+  
 
 ## 编译运行流程
 
