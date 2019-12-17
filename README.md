@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/platform-android-orange.svg)](https://developer.android.com/)
 ![APi Version](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)
 ![Release](https://img.shields.io/github/v/release/ViktSun/flutter_mvp.svg)
-[![License](https://img.shields.io/github/license/ViktSun/flutter_mvp)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/github/license/ViktSun/flutter_mvp.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Author](https://img.shields.io/badge/Author-viktsun-blue.svg)](http://www.sunwrite.top)
 
 本项目是在学习Flutter过程中，利用业余时间开发的一款小项目，代码结构清晰，项目采用了传统的MVP模式。
