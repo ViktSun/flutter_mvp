@@ -115,10 +115,6 @@
 
 - [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) 感谢该项目的作者同意我使用本项目的UI。
 
-- [flutter_deer](https://github.com/simplezhli/flutter_deer) 亮亮同学，现在同桌，基本同时开始踩坑Flutter,
-但是在中途的时候由于我手头的项目需求比较多，所以这个项目的开发一直搁置，亮亮同学把踩的部分坑都会和我分享，
-使我在开发的过程中少踩了许多坑。
-
 - 感谢所有的开源项目
 
 ## 声明
